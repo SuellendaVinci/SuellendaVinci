@@ -1,4 +1,4 @@
-<h2> print( Hello World! ☆ I'm Suellen or just Sue! o/ ); </h2>
+<h2> print( Hello World! I'm Suellen or just Sue! o/ ); </h2>
 
 <ul>
   <li> I’m currently learning Web Full Stack Development at Let's Code in partnership with Ifood. </>  </li> 
