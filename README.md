@@ -1,11 +1,11 @@
 <h2> print( Hello World! I'm Suellen or just Sue! o/ ); </h2>
 
 <ul>
-  <li> I’m currently learning Web Full Stack Development at Let's Code in partnership with Ifood. </>  </li> 
+  <li> I’m currently learning Web Full Stack Development at Let's Code in partnership with Ifood. ♡ </>  </li> 
   <li> Chess player ♕ ♔ </li>
-  <li> Music, Math and Astronomy lover! </li>
-  <li> "Tell me and I forget. Teach me and I remember. Involve me and I learn". - Benjamin Franklin </li>
-  <li> Poetic licenseto to call myself a Daughter of Ada Lovelace. Code like a girl! </li>
+  <li> Music, Math and Astronomy lover! ♡ </li>
+  <li> "Tell me and I forget. Teach me and I remember. Involve me and I learn". Benjamin Franklin </li>
+  <li> Poetic license to to call myself a daughter of Ada Lovelace. Code like a girl! ♡ </li>
 </ul>
 
 </br>
