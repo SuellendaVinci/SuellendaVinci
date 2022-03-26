@@ -5,7 +5,10 @@
   <li> Pronouns: she/her. </li>
   <li> Chess player ♕ ♔ </li>
   <li> Music, Math and Astronomy lover! </li>
+  <li> "Tell me and I forget. Teach me and I remember. Involve me and I learn". - Benjamin Franklin </li>
 </ul>
+
+</br>
 
 <div align="center">
   <a href="https://github.com/SuellendaVinci">
