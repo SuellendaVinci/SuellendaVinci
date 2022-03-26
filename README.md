@@ -1,10 +1,10 @@
-
-<h1 color="blue"> Hello there! I'm Sue!</h1>  <p> (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ </p>
+<h2> print( Hello World! ☆ I'm Suellen or just Sue! o/ ); </h2>
 
 <ul>
-  <li> I’m currently learning Web Full Stack Development at Let's Code in partnership with Ifood. </li> 
+  <li> I’m currently learning Web Full Stack Development at Let's Code in partnership with Ifood. </>  </li> 
   <li> Pronouns: she/her. </li>
-  <li> ♕ Chess player ♔ </li>
+  <li> Chess player ♕ ♔ </li>
+  <li> Music, Math and Astronomy lover! </li>
 </ul>
 
 <div align="center">
