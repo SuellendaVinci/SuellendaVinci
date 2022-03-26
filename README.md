@@ -2,10 +2,10 @@
 
 <ul>
   <li> I’m currently learning Web Full Stack Development at Let's Code in partnership with Ifood. </>  </li> 
-  <li> Pronouns: she/her. </li>
   <li> Chess player ♕ ♔ </li>
   <li> Music, Math and Astronomy lover! </li>
   <li> "Tell me and I forget. Teach me and I remember. Involve me and I learn". - Benjamin Franklin </li>
+  <li> Poetic licenseto to call myself a Daughter of Ada Lovelace. Code like a girl! </li>
 </ul>
 
 </br>
