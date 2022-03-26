@@ -2,15 +2,15 @@
 <h1 color="blue"> Hello there! I'm Sue!</h1>  <p> (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ </p>
 
 <ul>
-  <li> I’m currently learning Full Stack Development at Let's Code in partnership with Ifood. </li> 
+  <li> I’m currently learning Web Full Stack Development at Let's Code in partnership with Ifood. </li> 
   <li> Pronouns: she/her. </li>
   <li> ♕ Chess player ♔ </li>
 </ul>
 
 <div align="center">
   <a href="https://github.com/SuellendaVinci">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SuellendaVinci&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuellendaVinci&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SuellendaVinci&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuellendaVinci&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   <div style="display: inline_block"><br>
