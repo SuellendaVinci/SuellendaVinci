@@ -5,7 +5,7 @@
   <li> Chess player ♕ ♔ </li>
   <li> Music, Math and Astronomy lover! ♡ </li>
   <li> "Tell me and I forget. Teach me and I remember. Involve me and I learn". Benjamin Franklin </li>
-  <li> Poetic license to to call myself a daughter of Ada Lovelace. Code like a girl! ♡ </li>
+  <li> Poetic license to call myself a daughter of Ada Lovelace. Code like a girl! ♡ </li>
 </ul>
 
 </br>
