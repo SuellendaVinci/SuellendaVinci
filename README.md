@@ -1,7 +1,7 @@
 <h2> print( Hello World! I'm Suellen or just Sue! o/ ); </h2>
 
 <ul>
-  <li> I’m currently learning Web Full Stack Development at Let's Code in partnership with Ifood. ♡ </>  </li> 
+  <li> I’m currently learning Back-end Development at Cubos Academy in a partnership with Ifood. ♡ </>  </li> 
   <li> Chess player ♕ ♔ </li>
   <li> Music, Math and Astronomy lover! ♡ </li>
   <li> "Tell me and I forget. Teach me and I remember. Involve me and I learn". Benjamin Franklin </li>
