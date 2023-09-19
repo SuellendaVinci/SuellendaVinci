@@ -4,10 +4,6 @@
 
 </br>
 
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuellendaVinci&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
   
   <div style="display: inline_block"><br>
  <img align="right" alt="Sue-pic" width="200" style="border-radius:50"; src="https://pa1.narvii.com/6323/9922b84321163f39c3918f3312144ac90f949b19_hq.gif" > 
@@ -22,6 +18,10 @@
   <hr>
   <div> 
   <a href="https://www.linkedin.com/in/suellen-camargo-29396533/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+  <div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuellendaVinci&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 </div>
 
