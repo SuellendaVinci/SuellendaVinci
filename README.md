@@ -6,7 +6,6 @@
 
   
   <div style="display: inline_block"><br>
- <img align="right" alt="Sue-pic" width="300" style="border-radius:50"; src="https://pa1.narvii.com/6323/9922b84321163f39c3918f3312144ac90f949b19_hq.gif" > 
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -28,5 +27,9 @@
   <li> Euler's Identity is my favorite Math formula: e^(iπ) + 1 = 0 </li>
   <li> Poetic license to call myself a daughter of Ada Lovelace. Code like a girl! ♡ </li>
   </ul>
+
+<div style="display: inline_block"><br>
+   <img align="center" alt="Sue-pic" width="300" style="border-radius:50"; src="https://pa1.narvii.com/6323/9922b84321163f39c3918f3312144ac90f949b19_hq.gif" > 
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f8a8ff&height=120&section=footer"/>
