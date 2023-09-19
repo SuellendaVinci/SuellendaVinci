@@ -1,10 +1,12 @@
-<h2> print( Hello World! I'm Suellen or just Sue! o/ ); </h2>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8DEEFF&height=120&section=header"/>
 
-<ul>
-  <li> I’m currently learning Back-end Development at Cubos Academy in a partnership with Ifood. ♡ </>  </li> 
-  <li> Chess player ♕ ♔ </li>
-  <li> Music, Math and Astronomy lover! ♡ </li>
-  <li> "Tell me and I forget. Teach me and I remember. Involve me and I learn". Benjamin Franklin </li>
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8DEEFF&size=30&center=true&vCenter=true&width=1000&lines=+Welcome!+(^-^)!;My+name+is+Suellen,+but+you+can+call+me+Susu!;+I'm+currently+learning+Backend+Development;At+Cubos+Academy)](https://git.io/typing-svg)
+
+  <h3> About me </h3>
+  <ul>
+  <li> My passions are: Music, Math, Astronomy, Nature and Vegan Food ♕ ♔ </li>
+  <li> I really love this quote: "Tell me and I forget. Teach me and I remember. Involve me and I learn". Benjamin Franklin </li>
+  <li> My favorite Math formula: e^(iπ) + 1 = 0 </li>
   <li> Poetic license to call myself a daughter of Ada Lovelace. Code like a girl! ♡ </li>
 </ul>
 
@@ -30,5 +32,6 @@
   <div> 
   <a href="https://www.linkedin.com/in/suellen-camargo-29396533/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
- 
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8DEEFF&height=120&section=footer"/>
