@@ -1,22 +1,15 @@
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8DEEFF&height=120&section=header"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f8a8ff&height=120&section=header"/>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8DEEFF&size=30&center=true&vCenter=true&width=1000&lines=My+name+is+Suellen,+but+you+can+call+me+Susu!;+I'm+currently+learning+Backend+Development;At+Cubos+Academy;+Welcome!+(^-^)!;)](https://git.io/typing-svg)
-
-  <h3> About me </h3>
-  <ul>
-  <li> My passions are: Music, Math, Astronomy, Nature and Vegan Food ♕ ♔ </li>
-  <li> I really love this quote: "Tell me and I forget. Teach me and I remember. Involve me and I learn". Benjamin Franklin </li>
-  <li> Euler's Identity is my favorite Math formula: e^(iπ) + 1 = 0 </li>
-  <li> Poetic license to call myself a daughter of Ada Lovelace. Code like a girl! ♡ </li>
-</ul>
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f8a8ff&size=30&center=true&vCenter=true&width=1000&lines=My+name+is+Suellen,+but+you+can+call+me+Susu!;+I'm+currently+learning+Backend+Development;At+Cubos+Academy;+Welcome!+(^-^)!;)](https://git.io/typing-svg)
 
 </br>
 
 <div align="center">
   <a href="https://github.com/SuellendaVinci">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SuellendaVinci&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuellendaVinci&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SuellendaVinci&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuellendaVinci&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
   
   <div style="display: inline_block"><br>
  <img align="right" alt="Sue-pic" width="200" style="border-radius:50"; src="https://pa1.narvii.com/6323/9922b84321163f39c3918f3312144ac90f949b19_hq.gif" > 
@@ -34,4 +27,12 @@
 
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8DEEFF&height=120&section=footer"/>
+  <h5> About me </h5>
+  <ul>
+  <li> My passions are: Music, Math, Astronomy, Nature and Vegan Food ♕ ♔ </li>
+  <li> I really love this quote: "Tell me and I forget. Teach me and I remember. Involve me and I learn". Benjamin Franklin </li>
+  <li> Euler's Identity is my favorite Math formula: e^(iπ) + 1 = 0 </li>
+  <li> Poetic license to call myself a daughter of Ada Lovelace. Code like a girl! ♡ </li>
+  </ul>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f8a8ff&height=120&section=footer"/>
