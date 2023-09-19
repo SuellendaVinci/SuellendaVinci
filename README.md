@@ -6,7 +6,7 @@
   <ul>
   <li> My passions are: Music, Math, Astronomy, Nature and Vegan Food ♕ ♔ </li>
   <li> I really love this quote: "Tell me and I forget. Teach me and I remember. Involve me and I learn". Benjamin Franklin </li>
-  <li> My favorite Math formula: e^(iπ) + 1 = 0 </li>
+  <li> Euler's Identity is my favorite Math formula: e^(iπ) + 1 = 0 </li>
   <li> Poetic license to call myself a daughter of Ada Lovelace. Code like a girl! ♡ </li>
 </ul>
 
