@@ -8,9 +8,9 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="GIT" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
 <!--   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
 </div>
@@ -22,7 +22,7 @@
 
   <h5> About me </h5>
   <ul>
-  <li> My passions are: Music, Math, Astronomy, Nature and Vegan Food ♕ ♔ </li>
+  <li> My passions are: Music, Math, Code, Astronomy, Nature and Vegan Food ♕ ♔ </li>
   <li> I really love this quote: "Tell me and I forget. Teach me and I remember. Involve me and I learn". Benjamin Franklin </li>
   <li> Euler's Identity is my favorite Math formula: e^(iπ) + 1 = 0 </li>
   <li> Poetic license to call myself a daughter of Ada Lovelace. Code like a girl! ♡ </li>
