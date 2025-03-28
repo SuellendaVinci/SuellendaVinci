@@ -1,5 +1,5 @@
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f8a8ff&height=120&section=header"/>
-
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8DEEFF&height=120&section=header"/>
+  
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8DEEFF&size=30&center=true&vCenter=true&width=1000&lines=Hello+World!+My+name+is+Suellen!+=];+I'm+currently+learning+Backend+Development;At+Cubos+Academy;+Welcome!+(^-^)!;)](https://git.io/typing-svg)
 
 </br>
@@ -32,4 +32,5 @@
    <img align="center" alt="Sue-pic" width="300" style="border-radius:50"; src="https://pa1.narvii.com/6323/9922b84321163f39c3918f3312144ac90f949b19_hq.gif" > 
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f8a8ff&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8DEEFF&height=120&section=footer"/>
+
